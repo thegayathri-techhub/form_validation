@@ -44,7 +44,7 @@ This project is a responsive and visually appealing **user registration form** t
 
 ## 💻 Live Demo
 
-➡️ Hosted on **Netlify**: [Click here to view live calculator](https://gayathri-formvalidation.netlify.app/)
+➡️ Hosted on **Netlify**: [Click here to view live form](https://gayathri-formvalidation.netlify.app/)
 
 ---
 
